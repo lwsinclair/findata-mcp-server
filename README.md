@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/xbluecode-findata-mcp-server-badge.png)](https://mseep.ai/app/xbluecode-findata-mcp-server)
+
 # Financial Data - MCP Server
 
 [![smithery badge](https://smithery.ai/badge/findata-mcp-server)](https://smithery.ai/server/findata-mcp-server)
